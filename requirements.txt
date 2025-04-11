@@ -1,0 +1,6 @@
+spotipy
+yt_dlp
+config_parser
+tqdm
+signal
+concurrent.futures
