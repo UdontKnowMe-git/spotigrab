@@ -62,7 +62,7 @@ python main.py
 - Downloads are saved in the **`downloads/`** folder.  
 - If a song is already downloaded, it **won’t be downloaded again**.  
 - To **increase speed**, adjust the `threads` count in `config.ini` (Use <5 threads for lower end pcs).  
-
+- To exit from the program mid download, press Ctrl+C **once** to safely exit after downloading the queued song.
 ---
 
 ## **📜 License**  
