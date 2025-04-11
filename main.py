@@ -52,7 +52,7 @@ signal.signal(signal.SIGINT, graceful_exit)
 # Fetch liked songs
 def get_liked_songs():
     liked_songs = []
-    results = sp.current_user_saved_tracks(limit=50)  # Get 50 songs per request
+    results = sp.current_user_saved_tracks() 
 
     while results:
         for item in results['items']:
