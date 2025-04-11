@@ -33,6 +33,7 @@ redirect_uri = http://127.0.0.1:8888/callback
 
 [settings]
 threads = 5  # Adjust thread count for parallel downloads
+playlist_name = Liked Songs # Change according to the name of your playlist
 ```
 
 ### **3️⃣ Get Your Spotify API Credentials**  
