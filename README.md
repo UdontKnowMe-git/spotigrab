@@ -1,5 +1,3 @@
-Here's your **`README.md`** for your banger of an app! 🚀🎵  
-
 ---
 
 # **SpotiGrab** 🎶🚀  
