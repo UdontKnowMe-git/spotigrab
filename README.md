@@ -1,5 +1,3 @@
----
-
 # **SpotiGrab** 🎶🚀  
 **Download your Spotify liked songs or playlist tracks effortlessly as high-quality MP3s!**  
 
@@ -65,5 +63,3 @@ python main.py
 
 ## **📜 License**  
 This project is for **educational purposes only**. Do not use it for piracy. 🎵🚀  
-
----
