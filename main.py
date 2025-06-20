@@ -39,7 +39,7 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
 # Ensure downloads folder exists
 os.makedirs("downloads", exist_ok=True)
 
-# Graceful exit handler
+# Safe exit handler
 executor = concurrent.futures.ThreadPoolExecutor(max_workers=THREAD_COUNT)
 
 def graceful_exit(signal, frame):
